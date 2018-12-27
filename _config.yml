@@ -15,7 +15,9 @@ url: "" # the base hostname & protocol for your site
 twitter_username: geekrockchick24
 github_username:  psannielee
 
-plugins: [jekyll-paginate]
+plugins: 
+- jekyll-paginate
+
 
 # Build settings
 highlighter: rouge
