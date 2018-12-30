@@ -6,7 +6,7 @@ author: plee
 tags: 
 modified_time: '2005-09-29T19:53:04.026+02:00'
 blogger_id: tag:blogger.com,1999:blog-11366735.post-112801638401183817
-blogger_orig_url: http://www.sannielee.com/2005/09/new-beginnings.html
+blogger_orig_url: https://sannielee.com/2005/09/new-beginnings.html
 ---
 
 First off, Im going to apologize ahead for anz punctuation and what maz appear to be tzpos. I'm on a German kezboard in an internet cafe, and well, I am trzing to maximiye mz time while Im here, rather than worrzing about punctuation and spelling and all that good stuff.

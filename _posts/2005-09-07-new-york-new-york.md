@@ -6,7 +6,7 @@ author: plee
 tags: 
 modified_time: '2005-09-07T05:23:13.896+02:00'
 blogger_id: tag:blogger.com,1999:blog-11366735.post-112606339389679881
-blogger_orig_url: http://www.sannielee.com/2005/09/new-york-new-york.html
+blogger_orig_url: https://sannielee.com/2005/09/new-york-new-york.html
 ---
 
 Over the weekend I went to see Back to the Future with my sister Tracie and her fiancé Wayne in a theater 
@@ -15,7 +15,7 @@ so when we were in Brooklyn, I took this picture of the Manhattan skyline. I lov
 going to miss it when I'm in Berlin.
 
 
-<img src="/blog/assets/img/IMG_0516.jpg" alt="View from Brooklyn" border="0" />
+<img src="/assets/img/IMG_0516.jpg" alt="View from Brooklyn" border="0" />
 
 
 Isn't it pretty?  I took it with my Canon SD400 Digital Elph and had to hold really still by placing it on a banister.  
