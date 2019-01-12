@@ -15,8 +15,13 @@ url: 'http://sannielee.com/' # the base hostname & protocol for your site
 twitter_username: geekrockchick24
 github_username:  psannielee
 
+twitter:
+    username: geekrockchick24
+    card: summary    
+
 plugins: 
 - jekyll-paginate
+- jekyll-seo-tag
 
 
 # Build settings
@@ -34,6 +39,10 @@ navigation:
 social:
     github: psannielee
     twitter: geekrockchick24
+    name: Patricia Sannie Lee
+    linkedin: psannielee
+    facebook: psannielee
+    google+: https://plus.google.com/u/0/+PatriciaLee2007
     
 # Exclude these files from your production _site
 exclude:
