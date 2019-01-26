@@ -18,11 +18,10 @@ github_username:  psannielee
 
 twitter:
     username: geekrockchick24
-    card: summary    
+    card: summary_large_image    
 
 plugins: 
 - jekyll-paginate
-- jekyll-seo-tag
 
 
 # Build settings
