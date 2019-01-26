@@ -11,7 +11,7 @@ tags:
 - "american driver's license"
 - bureaucracy 
 description: After living in Germany for over ten years, I decided to get my German driver's license and quickly remembered why I didn't want to get it in the first place. Part 2 details preparing for and taking the written test.
-image: /assets/img/practice_test_results.jpg
+image: https://sannielee.com/assets/img/practice_test_results.jpg
 ---
 
 After the [bureaucratic process of having my American license sort of transferred](https://sannielee.com/2019/01/13/getting-a-german-drivers-license-part-1.html){:target="_blank"},

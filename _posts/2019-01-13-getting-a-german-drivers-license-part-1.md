@@ -11,6 +11,7 @@ tags:
 - "american driver's license"
 - bureaucracy 
 description: After living in Germany for over ten years, I decided to get my German driver's license and quickly remembered why I didn't want to get it in the first place. Part 1 details the bureaucracy.
+image: https://sannielee.com/assets/img/dinslaken.jpg
 ---
 
 I've been living in Germany for about 12 years at this point, but never felt the need to get my driver's license.
