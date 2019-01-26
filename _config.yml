@@ -8,8 +8,9 @@
 # Site settings
 title: In the Garage
 email: sannielee@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Thoughts on tech, women in tech, pop culture, and living abroad in Germany and China.
+title_image: 'https://sannielee.com/img/assets/rocknroll.jpg'
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://sannielee.com/' # the base hostname & protocol for your site
 twitter_username: geekrockchick24
