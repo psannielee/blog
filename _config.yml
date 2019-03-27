@@ -15,6 +15,7 @@ baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://sannielee.com/' # the base hostname & protocol for your site
 twitter_username: geekrockchick24
 github_username:  psannielee
+linkedin_username: psannielee
 
 twitter:
     username: geekrockchick24
@@ -22,6 +23,7 @@ twitter:
 
 plugins: 
 - jekyll-paginate
+- jekyll-archives
 
 
 # Build settings
@@ -35,6 +37,8 @@ navigation:
    url: /about
  - title: Contact
    url: /contact
+ - title: Archive
+   url: /archive
    
 social:
     github: psannielee

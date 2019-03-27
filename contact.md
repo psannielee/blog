@@ -9,7 +9,7 @@ title: Contact
     <p class="intro">Questions? Comments? Want to send me something funny?</p>
     <p>Here are the ways you can get in touch:
 	<ul>
-		<li><a href="mailto: sannielee@gmail.com">Email</a></li>
+		<li>Email: sannielee at gmail dot com</li>
 		<li><a href="https://twitter.com/geekrockchick24" target="_blank">Twitter</a></li>
 		<li><a href="https://www.linkedin.com/in/psannielee/" target="_blank">LinkedIn</a></li>
 		<li>WeChat ID: geekrockchick24</li>
