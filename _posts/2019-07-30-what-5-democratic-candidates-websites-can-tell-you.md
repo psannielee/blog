@@ -128,7 +128,7 @@ It's informative and a great way of dealing with the troll; I checked and the do
 
 ![Elizabeth Warren's landing page and homepage](/assets/img/warren_landing_home.jpg "Elizabeth Warren's landing page and homepage")
 
-Navigating to her homepage, a popover immediately asks me if I want to donate. No, thank you, I am just looking for information, and your popover is really
+Navigating to [her homepage](https://elizabethwarren.com/){:target="_blank"}, a popover immediately asks me if I want to donate. No, thank you, I am just looking for information, and your popover is really
 annoying. I can only wonder what the effectiveness of that is, but then again, I don't think the majority of people seeking out candidate websites are comparing them like I am. After closing the 
 popover, there's an annoying sticky banner on the bottom asking if I want to donate. NO. I clicked your popover away, do I really want to have this annoying banner there?! I get it, candidates
 need to raise money to stay in the race, but I am just looking for some information! In addition to the annoying sticky bottom banner, there's another banner at the top of the page urging me
@@ -209,7 +209,7 @@ site, Buttigieg has some detailed plans that you can find after digging a bit, s
 
 ![Pete Buttigieg's issues page](/assets/img/buttigieg_issues.jpg "Pete Buttigieg's issues page")
 
-Lastly, one particular aspect I absolutely love about Buttigieg's site is the design toolkit. It's linked in the navigation menu and is on a subdomain, but it has all of the assets you could possibly
+Lastly, one particular aspect I absolutely love about Buttigieg's site is the [design toolkit](https://design.peteforamerica.com/){:target="_blank"}. It's linked in the navigation menu and is on a subdomain, but it has all of the assets you could possibly
 need to create a Buttigieg-branded grassroots campaign. It has the color scheme, the typeface (turns out they use Aktiv Grotesk Extended, Industry, and Domaine Text), and logos, even ones for LGBTQ Pride
 (he is the first openly gay person running for president).
 
