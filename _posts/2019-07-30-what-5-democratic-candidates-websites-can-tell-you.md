@@ -221,11 +221,11 @@ the choices appear thought out.
 
 ## So What Does It All Mean?
 
-Doing this exercise made me realize a few things I wouldn't have thought about previously. First, I Joe Biden is unfortunately not ready to lead if he can't handle some trolls on the campaign trail.
+Doing this exercise made me realize a few things I wouldn't have thought about previously. First, Joe Biden is unfortunately not ready to lead if he can't handle some trolls on the campaign trail.
 The internet plays a massive role in our democracy today and it would be ignorant to choose someone who is unprepared to deal with that reality. Second, integrating a CTA on a campaign website so that
 it's not distracting is *hard*, especially since the Democrats are now priding themselves on grassroots campaigns. Third, I believe each candidate's approach to their own website reflects the types of people
 they're surrounding themselves with. Bernie has a lot of younger supporters that get his message and combined a classic political website (like Biden's) with elements that feel more familiar to a younger
 crowd. Harris is making herself relatable with her link to other media that the other candidates don't have.
 
 To be fair, it's still very early in the election season and the first primary votes won't happen until February 2020. It's likely that the number of candidates will drop, but I'm betting that these
-five candidates will be in it for a little longer.
+five candidates will be in it for a little longer. We'll see how their performances are during the coming debates.
