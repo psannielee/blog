@@ -92,19 +92,19 @@ that cuts it in the primaries.
 ## Simple Yet Effective:
 ### Bernie Sanders
 
-Googling Bernie Sanders, I see that [his website](https://berniesanders.com/){:target="_blank"} is the third hit after his Wikipedia entry and Twitter account. That's fine. When I
-land on his site, the contrast to Joe Biden's site is really stark. There's a video playing in the background, the text is left aligned, and white space is used well. Signing up
+Googling Bernie Sanders, I saw that [his website](https://berniesanders.com/){:target="_blank"} is the third hit after his Wikipedia entry and Twitter account. That's fine. When I
+landed on his site, the contrast to Joe Biden's site is really stark. There's a video playing in the background, the text is left aligned, and white space is used well. Signing up
 to their mailing list is the most important CTA besides the donate button; Biden's website had some popover that didn't appear consistently and I couldn't tell when it would appear 
 or not. Bernie's website does a much better job here; they're just asking you for your email first and will bombard you with information later. The only similarity is that Bernie's site
-is also red, white, and blue but it uses blue hues instead of only the three colors. 
+is also red, white, and blue but it uses blue hues instead of only the three colors so that it is less obvious using a patriotic palette. 
 
 ![Bernie Sanders' homepage and navigation](/assets/img/bernie_home_nav.jpg "Bernie Sanders' homepage and navigation")
 
-I really like the menu on Bernie's website&mdash;it's clear, concise, and I know exactly what to click on to get the information I want.
-When I navigate to issues, I see that it's a piece of cake to find what I'm looking for. There's an elevator pitch with Bernie's signature, and it kind of makes me laugh 
+I really liked the menu on Bernie's website&mdash;it's clear, concise, and I knew exactly what to click on to get the information I wanted.
+When I navigated to issues, I saw that it's a piece of cake to find what I was looking for. There's an elevator pitch with Bernie's signature, and it kind of made me laugh 
 because it's sort of like having an email with an image of someone's signature; everyone knows it's not real, but it's trying to be authentic. 
 
-The issues on the page are concisely labeled in a blue field/button. There's no mistaking anything for something else and I don't have to dig around. Clicking through the various issues, 
+The issues on the page are concisely labeled in a blue field/button. There's no mistaking anything for something else and I didn't have to dig around. Clicking through the various issues, 
 each issue also has a short summary on top why Bernie thinks the issue is important. You can just imagine Bernie yelling these things at you. 
 
 ![Bernie Sanders' issues page and footer](/assets/img/bernie_issues_footer.jpg "Bernie Sanders' issue page and footer")
@@ -113,14 +113,14 @@ One little touch I noticed was at the footer: it says "Paid for by Bernie 2020" 
 the "not the billionaires" statement is Bernie's thing, it fits well into who he is. 
 
 **The Verdict:** Bernie's website feels a lot more modern than Joe Biden's. It's very direct and gets to the point, and it's clear that the people behind Bernie's website
-are more in touch with current tech trends. Usability is super easy and I know how to get the information I need quickly. It's simple, yet elegant and gets the job done.
+are more in touch with current tech trends. Usability is super easy and I knew how to get the information I needed quickly. It's simple, yet elegant and gets the job done.
 
 ## Call-to-Action Overload:
 ### Elizabeth Warren
 
-Googling candidates and finding their websites is an adventure. With Elizabeth Warren, when searching on my phone, her website is the second hit after her Wikipedia entry. 
-I immediately see that her website has a slash in it, and all I can see is "/pocah," which has me immediately confused and thinking it could be another troll. Instead, 
-I am led to [this page](https://elizabethwarren.com/pocahontas){:target="_blank"}, which is from her official campaign, and it tells how the domain owner of 
+Googling candidates and finding their websites was an adventure. With Elizabeth Warren, when searching on my phone, her website was the second hit after her Wikipedia entry. 
+I immediately saw that her website has a slash in it, and all I could see was "/pocah," which had me immediately confused and thinking it could be another troll. Instead, 
+I was led to [this page](https://elizabethwarren.com/pocahontas){:target="_blank"}, which is from her official campaign, and it tells how the domain owner of 
 Pocahontas.com redirected their site to the campaign website (I was half right that it had to do with trolling. For non-US people that aren't familiar with why this would 
 happen, our idiot-in-chief nicknamed Warren "Pocahontas" after some controversy that she claimed to have Native American heritage). The page urges the domain 
 owner to redirect to the National Indigenous Women's Resource Center instead and goes on to detail the real story of Pocahontas, explaining that "violence continues to devastate Native communities."
@@ -128,51 +128,51 @@ It's informative and a great way of dealing with the troll; I checked and the do
 
 ![Elizabeth Warren's landing page and homepage](/assets/img/warren_landing_home.jpg "Elizabeth Warren's landing page and homepage")
 
-Navigating to [her homepage](https://elizabethwarren.com/){:target="_blank"}, a popover immediately asks me if I want to donate. No, thank you, I am just looking for information, and your popover is really
+Navigating to [her homepage](https://elizabethwarren.com/){:target="_blank"}, a popover immediately asked me if I want to donate. No, thank you, I am just looking for information, and your popover is really
 annoying. I can only wonder what the effectiveness of that is, but then again, I don't think the majority of people seeking out candidate websites are comparing them like I am. After closing the 
-popover, there's an annoying sticky banner on the bottom asking if I want to donate. NO. I clicked your popover away, do I really want to have this annoying banner there?! I get it, candidates
+popover, there's an annoying sticky banner on the bottom asking if I want to donate. NO. I clicked the popover away, do I really want to have this annoying banner there?! I get it, candidates
 need to raise money to stay in the race, but I am just looking for some information! In addition to the annoying sticky bottom banner, there's another banner at the top of the page urging me
-to attend or host a watch party for the debate. When I click on it, it leads to a page which leads to another page where I can sign up to volunteer. I'm seriously wondering at this point
+to attend or host a watch party for the debate. When I clicked on it, it led to a page which led to another page where I could sign up to volunteer. I was seriously wondering at this point
 what's more important for her campaign&mdash;volunteering or raising money? These banners are irritating, though luckily only the bottom one is sticky.
 
 ![Elizabeth Warren's CTAs](/assets/img/warren_ctas.jpg "Elizabeth Warren's CTAs")
 
 In addition to these two CTA banners, when you scroll down the home page a little bit, there's a carousel of inspiring text that then lands on "Will you join our fight in your neighborhood?" with
 the button "I'm all in" and the other option, "I'm not sure yet." OK, seriously, three CTAs on the homepage and nothing else but a video in the background like Bernie. Scrolling down the homepage and 
-there's more actions for you to take: sign up for the email list, RSVP for events, find events near you, another "Join us" and "I'm in" CTA, and finally, another email list sign up CTA. I count a total
+there's more actions for you to take: sign up for the email list, RSVP for events, find events near you, another "Join us" and "I'm in" CTA, and finally, another email list sign up CTA. I counted a total
 of *seven* CTAs on the homepage, and that's not also counting the "Donate" button at the top right which is sticky with the rest of the top navigation.
 
-When I navigate to the hamburger menu, I like the big, bold font, the color scheme, and the clear menu item names. However, good Lord, there's *yet another* CTA to donate money built directly into
+When I navigated to the hamburger menu, I liked the big, bold font, the color scheme, and the clear menu item names. However, good Lord, there's *yet another* CTA to donate money built directly into
 the navigation menu. I get it, you want me to donate my money or time. I used to joke at my last job about integrating more pop-ups and more popovers for user retention, but Warren's website is
 giving me a run for my money.
 
 ![Elizabeth Warren's navigation and issues page](/assets/img/warren_nav_issues.jpg "Elizabeth Warren's navigation and issues page")
 
-Clicking on "Issues," there's also a short summary at the top with a video featuring Warren herself (I don't click; I don't watch videos, I'm more of a reader). The issues are divided up into 
+Clicking on "Issues," there's also a short summary at the top with a video featuring Warren herself (I didn't click; I don't watch videos, I'm more of a reader). The issues are divided up into 
 what seems like a bunch of buzzwords in today's political climate; "End Washington Corruption" and "Strengthen Our Democracy" are two examples. You can tap on them to read an explanation on what the problem
 is and what Warren's solutions are. For me, they're surprisingly not very detailed considering that she's known for having a plan for everything, including 
 [fixing a comedienne's love life](https://www.npr.org/2019/05/20/724935521/sen-elizabeth-warren-has-a-plan-for-everything-including-your-love-life){:target="_blank"}.
 
-**The Verdict:** I generally like the style of Elizabeth Warren's website with the bold sans serif fonts and navigation is pretty straightforward. But the huge minus point is the amount of CTAs; 
+**The Verdict:** I generally liked the style of Elizabeth Warren's website with the bold sans serif fonts and navigation is pretty straightforward. But the huge minus point is the amount of CTAs; 
 a sticky bottom banner with a sticky top navigation that has a donate button. I get it, it's a campaign and the main goal at this point is to fundraise enough money to stay in the game. But I just
-want some information and I don't want to click on any of these CTAs.
+wanted some information and I didn't want to click on any of these CTAs.
 
 ## Showing Some Personality:
 ### Kamala Harris
 
-[Kamala Harris' campaign website](https://kamalaharris.org/){:target="_blank"} is ranked fifth for me when I search for it, after her Wikipedia entry, Twitter account, and articles from Business Insider and the Wall Street Journal. If I search
-in incognito, it's ranked third after Wikipedia and Twitter. Similar to Elizabeth Warren's site, I encounter a popover immediately asking me to donate. As with all the other websites, I click on close.
-Interestingly, the popover doesn't appear if I navigate to Google and back to the website (Warren's website has the popover every time, it seems). Harris' homepage also has several CTAs: a sticky
+[Kamala Harris' campaign website](https://kamalaharris.org/){:target="_blank"} was ranked fifth for me when I searched for it, after her Wikipedia entry, Twitter account, and articles from Business Insider and the Wall Street Journal. When I searched
+in incognito, it's ranked third after Wikipedia and Twitter. Similar to Elizabeth Warren's site, I encountered a popover immediately asking me to donate. As with all the other websites, I clicked on close.
+Interestingly, the popover didn't appear when I navigated to Google and back to the website (it seemed Warren's website had the popover every time). Harris' homepage also has several CTAs: a sticky
 top banner for donations, a sticky top navigation below the sticky top banner with a donate button, a sign up for an email list as well as mobile alerts, and another donation CTA. 
-Perhaps most relevant to me is that Harris' website is the first one to have any sort of GDPR-specific notification, which I think is pretty cool. To me, this means her team is not just 
+Perhaps most relevant to me is that Harris' website is the first one to have any sort of GDPR-specific notification, which I thought was pretty cool. To me, this means her team is not just 
 thinking about the Americans in the US, but also people abroad, whether or not they're Americans, and what the digital laws are. Way to respect GDPR.
 
 ![Kamala Harris' CTA and homepage](/assets/img/harris_cta_home.jpg "Kamala Harris' CTA and homepage")
 
-When I click on the menu, I notice a few things. First, the "En español" option is at the top, which I guess makes sense for a senator from California. I'm not quite sure where to get policy details,
-but reading all of the points, it's process of elimination that it's "Our America." The one thing I find really interesting is that the menu links to various social media accounts, including 
+When I clicked on the menu, I noticed a few things. First, the "En español" option is at the top, which I guess makes sense for a senator from California. I wasn't quite sure where to get policy details,
+but reading all of the points, it was process of elimination that it's "Our America." The one thing I found really interesting is that the menu links to various social media accounts, including 
 [Medium](https://medium.com/@KamalaHarris){:target="_blank"} and [Spotify](https://open.spotify.com/user/kamalaharris){:target="_blank"} (her summer playlist is pretty dope, even if it's not my
-usual taste in music). When I get to the page where I can find policy issues, I notice there's a lot of white space and the headlines for each section almost appear smaller than "Read more." Regardless,
+usual taste in music). When I got to the page where I could find policy issues, I noticed there's a lot of white space and the headlines for each section almost appear smaller than "Read more." Regardless,
 it's pretty easy to find the issues that are important to me. 
 
 ![Kamala Harris' navigation and issues page](/assets/img/harris_nav_issues.jpg "Kamala Harris' navigation and issues page")
@@ -182,20 +182,20 @@ there's a link to a much more detailed article that cites facts and figures. To 
 get into how Harris wants to solve these issues, these are very concrete plans. Of course, passing legislation as president would be difficult if you can't get Congress on board, but that discussion is 
 for another day.
 
-**The Verdict:** Kamala Harris' website doesn't feel as sophisticated as Elizabeth Warren or Bernie Sanders' sites, but it still feels modern and up-to-date. Much like Warren's website, I quite like
-the color scheme and the fonts. Harris uses serif fonts with long text, which I find is a bit easier to read when dealing with long text. I also appreciate the personal touch with the Spotify account and the 
+**The Verdict:** Kamala Harris' website doesn't feel as sophisticated as Elizabeth Warren or Bernie Sanders' sites, but it still feels modern and up-to-date. Much like Warren's website, I quite liked
+the color scheme and the fonts. Harris uses serif fonts with long text, which I find is a bit easier to read when dealing with long text. I also appreciated the personal touch with the Spotify account and the 
 amount of detail some of her policy proposals have. The CTAs are somewhat distracting, but less so than Warren's.
 
 ## On Point Personal Branding:
 ### Pete Buttigieg
 
-When I search for [Pete Buttigieg's website](https://peteforamerica.com/){:target="_blank"}, the first thing that strikes me is that it's the first hit, not his Wikipedia page or Twitter account. I'm not
-exactly sure why, but I suspect it might be because he's lesser known, being the mayor of South Bend, Indiana, than any of the four other candidates above. My other thought might be because he's the only
+When I searched for [Pete Buttigieg's website](https://peteforamerica.com/){:target="_blank"}, the first thing that struck me is that it's the first hit, not his Wikipedia page or Twitter account. I wasn't
+exactly sure why, but I suspected it might be because being the mayor of South Bend, Indiana, he's lesser known than any of the four other candidates above. My other thought was that he's the only
 millennial in the group and may actually have a really good team of people who understand SEO.
 
-My first impression is that the website color scheme is reminiscent of universities in the US, specifically Notre Dame, or of the US Navy. Interestingly, both Notre Dame and the US navy are relevant to Buttigieg's
-story&emdash;his parents were professors at Notre Dame and he served in the US Navy. Nice work if this was the intent, though I'm unsure if a voter who wasn't familiar with his story would get this. To be
-fair, my other thought was that the colors remind me of Ravenclaw House, but alas, Buttigieg's husband mentioned he 
+My first impression is that the website color scheme is reminiscent of universities in the US, specifically Notre Dame, or of the US Navy. Interestingly, both Notre Dame and the US Navy are relevant to Buttigieg's
+story&mdash;his parents were professors at Notre Dame and he served in the US Navy. Nice work if this was the intent, though I'm unsure if a voter who isn't familiar with his story would get this. To be
+fair, my other thought was that the colors reminded me of Ravenclaw House, but alas, Buttigieg's husband mentioned he 
 [took the official Pottermore quiz and is a Hufflepuff](https://thehill.com/blogs/in-the-know/in-the-know/434422-pete-buttigieg-is-a-hufflepuff-husband-reveals){:target="_blank"}.
 
 ![Pete Buttigieg's homepage and navigation](/assets/img/buttigieg_home_nav.jpg "Pete Buttigieg's homepage and navigation")
@@ -204,12 +204,12 @@ In addition to the color scheme, the hamburger menu is two lines and a star, whi
 he is one of two candidates to have served.
 
 Finding information on Buttigieg's site is straightforward in the navigation menu, but becomes confusing on the actual page. There is a top level categorization of issues: Freedom, Security, Democracy.
-But where would I find something on climate change? Turns out it's under security, which makes sense when I *really* think about it, but unfortunately is not obvious at first glance. Similar to Harris'
-site, Buttigieg has some detailed plans that you can find after digging a bit, specifically on racial justice and organized labor. It's all helpful information if not the best organized.
+But where would I find something on climate change? Turns out it's under security, which makes sense when I *really* thought about it, but unfortunately is not obvious at first glance. Similar to Harris'
+site, Buttigieg has some detailed plans that you can find after digging a bit, specifically on racial justice and organized labor. It's all helpful information, though not the best organized.
 
 ![Pete Buttigieg's issues page](/assets/img/buttigieg_issues.jpg "Pete Buttigieg's issues page")
 
-Lastly, one particular aspect I absolutely love about Buttigieg's site is the [design toolkit](https://design.peteforamerica.com/){:target="_blank"}. It's linked in the navigation menu and is on a subdomain, but it has all of the assets you could possibly
+Lastly, one particular aspect I absolutely loved about Buttigieg's site is the [design toolkit](https://design.peteforamerica.com/){:target="_blank"}. It's linked in the navigation menu and is on a subdomain, but it has all of the assets you could possibly
 need to create a Buttigieg-branded grassroots campaign. It has the color scheme, the typeface (turns out they use Aktiv Grotesk Extended, Industry, and Domaine Text), and logos, even ones for LGBTQ Pride
 (he is the first openly gay person running for president).
 
@@ -221,10 +221,13 @@ the choices appear thought out.
 
 ## So What Does It All Mean?
 
-Doing this exercise made me realize a few things I wouldn't have thought about previously. First, Joe Biden is unfortunately not ready to lead if he can't handle some trolls on the campaign trail.
-The internet plays a massive role in our democracy today and it would be ignorant to choose someone who is unprepared to deal with that reality. Second, integrating a CTA on a campaign website so that
-it's not distracting is *hard*, especially since the Democrats are now priding themselves on grassroots campaigns. Third, I believe each candidate's approach to their own website reflects the types of people
-they're surrounding themselves with. Bernie has a lot of younger supporters that get his message and combined a classic political website (like Biden's) with elements that feel more familiar to a younger
+I don't think campaign website usability and design ever helped win an election or tilted it in someone's favor, but it does serve its purpose (here's [another 
+case about hideous email design](https://slate.com/news-and-politics/2019/02/trump-2020-campaign-emails-bad-ugly-graphic-design.html){:target="_blank"} in campaign emails) and says something about each candidate. 
+
+Doing this exercise made me realize a few things I wouldn't have thought about previously. First, I don't think Joe Biden is ready to lead if he can't handle some trolls on the campaign trail. The internet 
+plays a massive role in our democracy today and it would be ignorant to choose someone who is unprepared to deal with that reality. Second, integrating a CTA on a campaign website so that it's not 
+distracting is *hard*, especially since the Democrats are now priding themselves on grassroots campaigns. Third, I believe each candidate's approach to their own website reflects the types of people 
+they're surrounding themselves with. Bernie has a lot of younger supporters that get his message and combined a classic political website (like Biden's) with elements that feel more familiar to a younger 
 crowd. Harris is making herself relatable with her link to other media that the other candidates don't have.
 
 To be fair, it's still very early in the election season and the first primary votes won't happen until February 2020. It's likely that the number of candidates will drop, but I'm betting that these
