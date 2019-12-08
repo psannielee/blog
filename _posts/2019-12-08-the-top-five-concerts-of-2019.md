@@ -7,7 +7,7 @@ tags:
 - gigs
 - "live music"
 Description: In 2019, I went to 24 concerts throughout the year which was a personal record for me. Here are the top 5 of the year.
-image: https://sannielee.com/assets/img/dems_websites.jpg
+image: https://sannielee.com/assets/img/201911_lizzo.jpg
 ---
 For anyone who has met me or knows me at all, you'll know that music plays a massive role in my life. Last year, I wrote about [my top five albums of 2018](https://sannielee.com/2019/01/10/top-5-albums-of-2018.html){:target="_blank"}. Although I bought a lot of records this year (as I do), I realized that many of them weren't actually released in 2019; I think the reason for this is because I bought a lot of albums from artists and bands whose music I didn't own previously for various reasons.
 
