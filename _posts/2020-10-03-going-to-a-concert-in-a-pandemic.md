@@ -14,7 +14,7 @@ tags:
 - uk
 - roundhouse
 Description: After more than a year not going to see live music without restrictions, I flew to London for four nights of Frank Turner's Lost Evenings Festival. I had anxiety and fears, but everything turned out ok.
-image: https://sannielee.com/assets/img/dems_websites.jpg
+image: https://sannielee.com/assets/img/20210916_someonetolove.jpg
 ---
 The last concert I was at before the pandemic hit and forced the live music industry to go on hold was on 26 February 2020. It was [Ash](https://ash-official.com/ "Ash official page"){:target="_blank"} at Gebäude 9 in Cologne. I remember leaving the show exhilarated, happy as always to have sing-alongs and to be able to dance with like-minded people. It was a cold evening in February, but leaving the venue, I was warm even waiting for the train back to Düsseldorf with a friend. I'm glad I didn't know it was my last show for a long time, otherwise it would've ruined the experience.
 
