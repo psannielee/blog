@@ -10,9 +10,10 @@ title: Contact
     <p>Here are the ways you can get in touch:
 	<ul>
 		<li>Email: sannielee at gmail dot com</li>
-		<li><a href="https://twitter.com/geekrockchick24" target="_blank">Twitter</a></li>
 		<li><a href="https://www.linkedin.com/in/psannielee/" target="_blank">LinkedIn</a></li>
+		<li><a href="https://twitter.com/geekrockchick24" target="_blank">Twitter</a></li>
 		<li>WeChat ID: geekrockchick24</li>
+		<li>Also find me on various Discord servers...</li>
 	</ul>
 	</p>
   </div>
