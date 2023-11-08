@@ -6,19 +6,19 @@ title: About
 	<h1 class="pageTitle">About Me</h1>
 	<p class="intro">Hello. Guten Tag. 你好。Hola.</p>
 	<p>
-		I'm Sannie, a Chinese American that has been living abroad for over ten years with time spent in Germany and 
+		I'm Sannie, a Chinese American that has been living abroad for over 15 years with time spent in Germany and 
 		in Shanghai, China. Things that may be important for you to know about me:
 		<ul>
 			<li>
-				I like all things tech. I'm a product owner and I am a true believer in working agile. But it needs 
+				I like all things tech. I'm a product manager and I am a true believer in working agile. But it needs 
 				to work for you.
 			</li>
 			<li>
-				I love music. You'll probably hear me talking about The Beatles, Weezer, OK Go,
-				Franz Ferdinand, The Living End, or Frank Turner. I also go to live concerts a lot.
+				I love music. You'll probably hear me talking about The Beatles, Weezer, Frank Turner, OK Go,
+				Franz Ferdinand, or The Living End. I also go to live concerts a lot.
 			</li>
 			<li>
-				I'm passionate about traveling and discovering new cultures. This is likely why I've lived so long abroad.
+				I'm passionate about traveling and discovering new cultures. This is likely why I moved abroad.
 				It also helps that I like learning (human) languages.
 			</li>
 			<li>
